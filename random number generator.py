@@ -4,7 +4,7 @@ print("--------------Random number generator---------")
 
 ##########    taking inputs   #################
 
-a=int(input("Enter starting bnumber: "))
+a=int(input("Enter starting number: "))
 b=int(input("Enter ending number: "))
 c=int(input("Enter number of times you want to generate:"))
 i=0
